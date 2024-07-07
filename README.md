@@ -1,5 +1,5 @@
 
-# Hotel Review Sentiment Analysis [Deep Learning + Machine Learning]
+# Hotel Review Sentiment Analysis 
 
 This project performs semantic analysis on hotel reviews scraped from TripAdvisor to classify them as positive, negative or neutral. Both traditional machine learning and deep learning approaches are implemented for comparison.
 
